@@ -352,7 +352,8 @@ SMALLER SCREENS
         font-size: 40px;
     }
 
-    .section__description {
+    .section__description,
+    .section__card--social .section__description {
         flex-direction: column;
     }
 
